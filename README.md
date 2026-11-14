@@ -3,3 +3,6 @@ Sistema que automatiza la tasación de bicicletas según su estado y el valor de
 <h1>
   primer commit del repositorio en develop, primer cambio. Mark1
 </h1>
+<h1>
+  Profe Chris, Eliam, Christopher, Adrian, Eduardo
+</h1>
